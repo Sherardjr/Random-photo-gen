@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0%;
+}
+
+#app {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 60px;
+  background-color: rgb(148, 11, 11);
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
